@@ -8,10 +8,10 @@ import{ useState } from 'react'
 function App() {
   const [items, setItems] = useState( [
     {
-    id: 0, 
+    id: 1, 
     itemName: 'Wallet',
     itemLocation: 'Downstairs'
-    }
+    }, 
    ]) 
 
 
